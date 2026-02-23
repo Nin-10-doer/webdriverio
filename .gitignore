@@ -11,8 +11,7 @@ pnpm-lock.yaml
 # =========================
 # Logs
 # =========================
-reports/
-
+allure-report/
 
 # =========================
 # Coverage (c8 / nyc)
@@ -20,7 +19,3 @@ reports/
 coverage/
 .nyc_output/
 
-# =========================
-# Allure
-# =========================
-allure-report/
